@@ -4,6 +4,7 @@ https://cloud.google.com/sdk/docs/install#deb
 
 vi /etc/sudoers
     jenkins ALL=(ALL) NOPASSWD: ALL
+    
 sudo su - jenkins
 
 1) sudo apt-get install apt-transport-https ca-certificates gnupg
